@@ -112,5 +112,3 @@ Malika Singla
 Updated the screenshot
 
 ### © IBM Corporation 2020. All rights reserved.
-
-window.addEventListener('load', function() { snFaculty.inject(); });
